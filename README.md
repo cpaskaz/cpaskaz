@@ -44,7 +44,7 @@ Below you will find some samples of the outputs as some of my code base is priva
 <details open>
 <summary><b>Architecture</b></summary>
 
-![alt text](images/DPWA_Arch.png?raw=true){: width="400px"}
+![alt text](images/DPWA_Arch.png?raw=true){: width=400px}
 
 </details>
 
