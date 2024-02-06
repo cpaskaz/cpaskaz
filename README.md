@@ -41,10 +41,10 @@ Below you will find some samples of the outputs as some of my code base is priva
 1. UI for expectation management
 </details>
 
-<details>
+<details open>
 <summary><b>Architecture</b></summary>
 
-![alt text](images/DPWA_Arch.png?raw=true)
+![alt text](images/DPWA_Arch.png?raw=true){: width="400px"}
 
 </details>
 
