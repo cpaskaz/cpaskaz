@@ -9,27 +9,48 @@ Here you will find a plethora of re-usable code for the following areas:
 
 Below you will find some samples of the outputs as some of my code base is private.
 
+## Data Profiling Webb Application
+<details open>
+<summary><b>Purpose</b></summary>
 
-## Data Profiling Web Application - Jumpstart
+This simple web application will allow you to upload a dataset, perform general exploratory analysis and visualize the results
 
-###Functionality:
+</details>
+<details>
+<summary><b>Functionality</b></summary>
+
 1. Ability to login using username and password.
-2. UI Dark Mode
-3. Automated Exploratory Analysis
+1. UI Dark Mode
+1. Automated Exploratory Analysis
     - Table level statistics
     - Table variable types
     - Table variable statistics
     - Table alert types 
     - Variable level statistics table
-4. Data Labels for Privacy Apllication 
-5. UI Dark Mode
-6. Job Management 
-
-###Future Functionality:
+1. Save job data and results to a database
+1. Visualize the results in an interactive dashboard format
+1. Data Labels for Privacy Apllication 
+1. UI Dark Mode
+1. Job Management 
+</details>
+<details>
+<summary><b>Future Functionality</b></summary>
 
 1. API endpoints for profiling
-2. Great Expectation execution
-3. UI for expectation management
+1. Great Expectation execution
+1. UI for expectation management
+</details>
 
-###Architecture
+<details>
+<summary><b>Architecture</b></summary>
+
 ![alt text](images/DPWA_Arch.png?raw=true)
+
+</details>
+
+<details>
+<summary><b>Screenshots</b></summary>
+
+
+
+</details>
