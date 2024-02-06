@@ -10,7 +10,9 @@ Here you will find a plethora of re-usable code for the following areas:
 Below you will find some samples of the outputs as some of my code base is private.
 
 ## Data Profiling Web Application
-![alt text](images/jumpstart3.png?raw=true){: style="display:block; width:200px; margin-left:auto; margin-right:auto"}
+
+<img src="/images/jumpstart3.png" style="display:block; width:200px; margin-left:auto;margin-right:auto"></img>
+
 **Purpose**
 
 Jumpstart is a light-weight web application that will help you perform basic tabular data profiling to highlight general statistics about your uploaded data. You simplay upload a file to be analysed, and start visualizing the results. You also have the ability to see the status of the most recent previous analyses that you have submitted, in which you can perform job management.
