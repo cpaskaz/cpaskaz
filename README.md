@@ -4,7 +4,7 @@ Here you will find a plethora of re-usable code for the following areas:
 
 1. Webapps
 2. Data Analysis
-3. [Machine Learning]([(/machine-learning))
+3. [Machine Learning]([(cpaskaz/machine-learning))
 4. Data Catalog (DataHub) Custom Code
 
 Below you will find some samples of the outputs as some of my code base is private.
